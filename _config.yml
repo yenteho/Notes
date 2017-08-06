@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /Notes
+exclude: ['README.md']
